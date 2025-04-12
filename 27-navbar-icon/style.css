@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;text-decoration: none;
+    list-style: none;
+}
+.navbar
+{
+    height: 10vh;
+    background-color: rgb(103, 190, 207);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #453522;
+}
+
+.menu-list
+{
+    display: flex;
+    gap: 3rem;
+    font-size: 1.3rem;
+    font-family: cursive;
+
+    a{
+        color: aqua;
+    }
+
+}
+.google
+{
+    font-size: 2rem;
+    color: beige;
+}
+
+
+.SignIn
+{
+    color: beige;
+    width: 5rem;
+    height: 2rem;
+    border-radius: 10px;
+    background-color: #c48845;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}

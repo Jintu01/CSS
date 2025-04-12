@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container,.container-1,.container-3
+{
+width: 80%;
+height: 80vh;
+background-color: rgb(222, 203, 178);
+margin-top: 100px;
+margin-left: 100px;
+}
+
+.box
+{
+width: 100px;
+height: 100px;
+border: 2.5px solid rgb(80, 227, 80);
+display: inline-block;
+font-size: 1rem;
+text-align: center;
+}
+
+.box-1
+{
+    position: relative;
+    background-color: rgb(134, 224, 224);
+    left: 0%;
+    top: 0%;
+}
+
+.box-2{
+    background-color: rgb(152, 237, 129);
+    position: absolute;
+    top: 0px;
+    left: 20px;
+}
+
+.box-3
+{
+    background-color: rgb(155, 97, 209);
+position: fixed;
+top: 0;
+}
+
+
+
+

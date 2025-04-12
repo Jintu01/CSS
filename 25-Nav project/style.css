@@ -1,0 +1,41 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    align-content: center;
+    
+}
+.navbar
+{
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(13, 12, 10); 
+    display: flex;
+    justify-content: center;
+    
+}
+.nav{
+    background-color: rgb(26, 22, 18);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: solid;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #d3b7b7;
+}
+.button
+{
+    width: 10%;
+    height: 100%;
+    display: flex;
+   flex-direction: row-reverse;
+
+}
+.logo
+{
+    width: 10%;
+    color: antiquewhite;
+}

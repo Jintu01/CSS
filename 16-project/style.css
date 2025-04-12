@@ -1,0 +1,24 @@
+h1{
+    background-color: bisque;
+    display: inline;
+}
+h2{
+    background-color: blue;
+    display: inline;
+    float:right;
+}
+h3{
+    background-color: aqua;
+    float: clear;
+}
+
+
+
+
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+
+}

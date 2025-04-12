@@ -1,0 +1,36 @@
+@font-face {
+    font-family: font-01;
+    src: url(font/ClassicCassette-Rough.ttf);
+}
+
+h1{
+    font-family: font-01;
+}
+
+@font-face {
+    font-family: font-02;
+    src: url(font/Fine\ College.ttf);
+}
+p{
+    font-family: font-02;
+    font-weight: 400px;
+}
+
+
+@font-face {
+    font-family: font-03;
+    src: url(font/Prisma.ttf);
+}
+
+@font-face {
+    font-family: font-04;
+    src: url(font/EduAUVICWANTDots-VariableFont_wght.ttf);
+}
+
+
+
+
+
+h2{
+    font-family: font-04;
+}
